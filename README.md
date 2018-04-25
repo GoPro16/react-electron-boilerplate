@@ -8,9 +8,9 @@ $ npm install
 ## Usage
 Run the React App:
 ```bash
-$ npm start
+$ npm run react-start
 ```
-Run the Electron App:
+Then run the Electron App:
 ```bash
-$ npm run electron
+$ npm run electron-start
 ```
